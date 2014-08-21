@@ -1,0 +1,27 @@
+/***************************
+MODULE STYLES
+***************************/
+
+/***** Header Module *****/
+
+/***** Sidebar Module *****/
+
+
+/***** Main Module *****/
+
+.icon{
+  list-style: none;
+}
+
+.m-gallery .img img:hover{
+  opacity: 0.4;
+  filter: alpha(opacity=40)
+}
+
+.m-gallery .img img {
+  width:30%;
+  float: left;
+  margin: 10px;
+}
+
+/***** Footer Module *****/
